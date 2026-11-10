@@ -1,5 +1,5 @@
 context:
-  version: "1.12.5"
+  version: "1.13.0"
 
 package:
   name: markdown-exec
@@ -7,7 +7,7 @@ package:
 
 source:
   - url: https://pypi.org/packages/source/m/markdown-exec/markdown_exec-${{ version }}.tar.gz
-    sha256: f1546befc436da8bd5aacf82ce241fbee40611c7251a3e71d3280aba23b1403d
+    sha256: f32af515d0da71a948331e32bac39b3d629e2017fd107af5013e88c2791153f6
 
 build:
   number: 0
